@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Pickup- Truck (Sandy Update)
+* source:	https://sketchfab.com/3d-models/toy-pickup-truck-sandy-update-b62c40210962472b9ae444592f1ee53d
+* author:	CG Daniel Glebinski (https://sketchfab.com/CGDanielGlebinski)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Pickup- Truck (Sandy Update)" (https://sketchfab.com/3d-models/toy-pickup-truck-sandy-update-b62c40210962472b9ae444592f1ee53d) by CG Daniel Glebinski (https://sketchfab.com/CGDanielGlebinski) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
